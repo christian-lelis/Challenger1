@@ -1,16 +1,11 @@
-# challenger_1
+# Challenger 1
 
-A new Flutter project.
+Olá, me chamo Christian Lelis e esse é o primeiro desafio que requisitado pelo Escribo - Inovação para o Aprendizado, espero que gostem de resultado.
 
-## Getting Started
+## Como rodar o código?
 
-This project is a starting point for a Flutter application.
+- Todo o código foi feito pelo VSCode, onde é necessário instalar as extensões "Flutter" e "Dart";
 
-A few resources to get you started if this is your first Flutter project:
+- Para poder emular o código será necessário a utilização do "Android Emulator" para emular um celular.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), whichoffers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Caso queira, você pode clicar em [video](https://drive.google.com/file/d/1xkD302594l3eGvn_qh6lgttOyHP6VUDs/view?usp=sharing) para poder ver o video que criei rodando essa aplicação.
