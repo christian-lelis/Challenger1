@@ -1,6 +1,6 @@
 # Challenger 1
 
-Olá, me chamo Christian Lelis e esse é o primeiro desafio que requisitado pelo Escribo - Inovação para o Aprendizado, espero que gostem de resultado.
+Olá, me chamo Christian Lelis e esse é o primeiro desafio requisitado pelo Escribo - Inovação para o Aprendizado, espero que gostem de resultado.
 
 ## Como rodar o código?
 
